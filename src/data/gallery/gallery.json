@@ -1,0 +1,20 @@
+{
+  "title": ["Our", "gallery"],
+  "gallery": [
+    {
+      "id": "1",
+      "src": "/images/gallery/gallery-mountains.jpg",
+      "alt": "mountains"
+    },
+    {
+      "id": "2",
+      "src": "/images/gallery/gallery-lake.jpg",
+      "alt": "lake"
+    },
+    {
+      "id": "3",
+      "src": "/images/gallery/gallery-forest.jpg",
+      "alt": "forest"
+    }
+  ]
+}

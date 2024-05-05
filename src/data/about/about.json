@@ -1,0 +1,22 @@
+{
+  "title": ["About", "Our Team"],
+  "text": [
+    {
+      "strong": "A Dedicated Team",
+      "normal": "Comprised of passionate individuals, we are fully devoted to crafting remarkable and extraordinary journeys across the United States. Our mission extends beyond mere travel; we strive to offer you immersive experiences that leave a lasting impression."
+    },
+    {
+      "strong": "Our Philosophy",
+      "normal": "We firmly believe in the transformative power of nature to inspire, fortify character, and broaden horizons. Each of our expeditions is designed to unlock your potential, enrich your spirit, and etch indelible memories."
+    },
+    {
+      "strong": "Proven Methods",
+      "normal": "We employ time-tested techniques and expertise to ensure your safety and satisfaction. Our seasoned guides, well-versed in the diverse landscapes of America, lead you on journeys through its captivating vistas."
+    }
+  ],
+  "slogan": [
+    "From casual sightseers",
+    "to intrepid adventurers,",
+    "we cater to all."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": ["We", "offer"],
+  "services": [
+    {
+      "id": "1",
+      "title": "ATVs Traveling",
+      "src": "/images/services/service1.jpg",
+      "slogan": "Feel the adrenaline rush",
+      "description": "Join exciting rafting expeditions on the waterways of the US. Go through challenging waterways and overcome gusty waves, feel the adrenaline, and enjoy the incredible views of the surrounding mountains."
+    },
+    {
+      "id": "2",
+      "title": "Rock climbing",
+      "src": "/images/services/service2.jpg",
+      "slogan": "Destroy your limitations",
+      "description": "Overcome the peaks of the US in a unique way - climbing. Make your own way to the heights and find inner peace in the embrace of the mighty rocks."
+    },
+    {
+      "id": "3",
+      "title": "Hot air ballooning",
+      "src": "/images/services/service3.jpg",
+      "slogan": "Get Inspired",
+      "description": "Feel Zen over the mountain peaks! Hot air ballooning gives you incredible impressions and panoramas of the US that seem endless."
+    },
+    {
+      "id": "4",
+      "title": "Skydiving",
+      "src": "/images/services/service4.jpg",
+      "slogan": "Overcome your fears",
+      "description": "Fly in the sky over the US! Experienced instructors will help you realize your dream of free flight. Remember the incredible emotions and panoramas from a bird's eye view forever."
+    },
+    {
+      "id": "5",
+      "title": "Rafting",
+      "src": "/images/services/service5.jpg",
+      "slogan": "Trust the flow",
+      "description": "Join exciting rafting expeditions on the waterways of the US. Go through challenging waterways and overcome gusty waves, feel the adrenaline, and enjoy the incredible views of the surrounding mountains."
+    }
+  ],
+  "servicesList": ["ATVs Traveling", "Rock climbing", "Hot air ballooning", "Skydiving", "Rafting"]
+}

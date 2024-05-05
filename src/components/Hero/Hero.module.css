@@ -1,0 +1,26 @@
+.heroSection {
+  padding-top: 105px;
+
+  @media screen and (min-width: 768px) {
+    padding-top: 122px;
+  }
+
+  @media screen and (min-width: 1280px) {
+    padding-top: 106px;
+  }
+}
+
+.heroBgImg {
+  background-image: linear-gradient(rgba(2, 15, 8, 0.75), rgba(2, 15, 8, 0.75)),
+    url(../../../public/images/hero/bg-hero.jpg);
+
+  @media (min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi),
+    (min-resolution: 2dppx) {
+    background-image: linear-gradient(
+        rgba(2, 15, 8, 0.75),
+        rgba(2, 15, 8, 0.75)
+      ),
+      url(../../../public/images/hero/bg-hero@2x.jpg);
+  }
+}
